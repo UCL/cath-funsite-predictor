@@ -6,7 +6,7 @@ This git repository contains the following:
 
 * `datasets`
   This contains all the datasets mentioned in the Funsite manuscript along with jupyter notebooks showing the steps for generating them.
-  Some dataset files are very large, these can be downloaded from [ftp://orengoftp.biochem.ucl.ac.uk/cath/supplementary-materials/2020-cath-funsite-predictor/](ftp://orengoftp.biochem.ucl.ac.uk/cath/supplementary-materials/2020-cath-funsite-predictor/)
+  Some dataset files are very large, these can be downloaded from [**ftp://orengoftp.biochem.ucl.ac.uk/cath/supplementary-materials/2020-cath-funsite-predictor/**](ftp://orengoftp.biochem.ucl.ac.uk/cath/supplementary-materials/2020-cath-funsite-predictor/)
 
 * `funsite_models`
   This contains the Funsite model generation, prediction scripts and benchmark results using the dataset files that are reported in the Funsite manuscript.
