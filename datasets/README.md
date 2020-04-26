@@ -2,6 +2,10 @@
 Generation of features for domains for Funsite predictor
 ========================================================
 
+#### Note: Getting CATH FunFam assignments for proteins
+
+To get [CATH](http://www.cathdb.info/wiki) FunFam assignments for proteins, one can use the [online search tool](http://www.cathdb.info/search/by_sequence) for few sequences or the [cath-genomescan tool](https://github.com/UCLOrengoGroup/cath-tools-genomescan) for getting assignments for large sequence datasets.
+
 ### 1) For each domain PDB file (e.g. 12asA00.pdb), the following files need to be generated:
 
 a) generate [DSSP](https://swift.cmbi.umcn.nl/gv/dssp/DSSP_3.html) file (12asA00.dssp)
