@@ -9,7 +9,7 @@ This git repository contains the following:
   Some dataset files are very large, these can be downloaded from [here](https://www.dropbox.com/sh/a1ejavtv5s6rlxv/AABfLasvfO5VpLp3l-MsoW28a?dl=0).
 
 * `funsite_models`
-  This contains the Funsite model generation and prediction scripts using the dataset files.
+  This contains the Funsite model generation, prediction scripts and benchmark results using the dataset files that are reported in the Funsite manuscript.
 
 * `scripts`
   This contains all scripts used for generating Funsite models and predictions.
